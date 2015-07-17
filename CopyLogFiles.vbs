@@ -2,7 +2,7 @@
 'I used the winscp cli to upload the files via sftp
 'To run. Open a command line prompt to the directory conataining the vbs file. 
 'Execute the following command 
-'cscript Jama_Copy.vbs "<Source_Dir>" "<UserID>" "<Password>" "<Destination>"
+'cscript CopyLogFiles.vbs "<Source_Dir>" "<UserID>" "<Password>" "<Destination>"
 'Where <Source_Dir> is the directory with the files you wish to copy from. Path needs to end with a "\"
 'Where <Destination> is the directory you want to copy to. Path needs to end with a "\"
 
